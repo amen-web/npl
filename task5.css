@@ -1,0 +1,154 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#contner
+{
+    width: 1500px;
+    height: 2500px;
+    margin: 10px;
+    
+}
+
+ ul li a{
+    text-decoration: none;
+    color: #000;
+}
+ul
+{
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom:30px; 
+   
+  
+}
+li:hover
+{
+    background-color: rgb(185, 184, 184);
+}
+.l1
+{
+    float: left;
+    margin-right: 1200px;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
+.l2
+{
+    float: left;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
+.clear
+{
+    clear: both;
+}
+.img1
+{
+    width: 750px;
+    float: left;
+    
+}
+.img1 img
+{
+    margin-bottom: -8px;
+
+}
+.img2
+{
+    width: 750px;
+    float: left;
+}
+.img2 img
+{
+    margin-bottom: -8px;
+
+}
+.w
+{
+    width:300px;
+     height:300px;
+     max-width: 100%;
+    height: auto;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin-left: 600px;
+}
+h2
+{
+    text-align: center;
+    margin-top: 50px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+
+}
+p{
+    display: block;
+  text-align: center;
+  line-height: 1.5;
+  font-family: "Raleway", Arial, sans-serif;
+  font-size: 15px;
+  color: #000;
+}
+.me
+{
+    margin-top: 10px;
+    color: #e91e63;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+label
+{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+input
+{
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    background-color: white;
+    cursor: text;
+    padding: 8px;
+    display: block;
+    width: 100%;
+}
+#about
+{
+    color: #000;
+    background-color: #f1f1f1;
+    padding-top: 64px;
+}
+.sub
+{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    background-color: #626262;
+    color: #f1f1f1;
+    font-size: 15px;
+}
+.sub:hover
+{
+    color: #fff;
+    background-color: #979696;
+}
